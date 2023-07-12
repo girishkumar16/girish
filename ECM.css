@@ -225,6 +225,9 @@ a:hover {
     clear: left;
     box-sizing: border-box;
   }
+   #about{
+    font-size: 20px;
+  }
 
 
 }
